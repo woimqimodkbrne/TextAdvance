@@ -3,7 +3,7 @@
 	url = https://github.com/aers/FFXIVClientStructs.git
 [submodule "ECommons"]
 	path = ECommons
-	url = https://github.com/NightmareXIV/ECommons
+	url = https://github.com/woimqimodkbrne/ECommons
 [submodule "ClickLib"]
 	path = ClickLib
-	url = https://github.com/Limiana/ClickLib
+	url = https://github.com/woimqimodkbrne/ClickLib
