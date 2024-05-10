@@ -4,6 +4,7 @@
 [submodule "ECommons"]
 	path = ECommons
 	url = https://github.com/woimqimodkbrne/ECommons
+	branch = textadvance
 [submodule "ClickLib"]
 	path = ClickLib
 	url = https://github.com/woimqimodkbrne/ClickLib
